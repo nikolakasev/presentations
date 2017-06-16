@@ -79,7 +79,7 @@ Amazon Prime Air
 + Roughly **90-95% roadmap** is driver by what customers tell them matters;
 
 ---
-## Are wright, A lot
+## Are right, A lot
 
 ![](sheldon.png)
 
