@@ -1,6 +1,10 @@
 slidenumbers: true
 
-# AWS Transformation Day 2017
+### Disclaimer: this is not original content
+---
+
+# AWS Transformation Day
+## 23 May 2017
 
 ### Recollection of the day
 
@@ -94,6 +98,10 @@ commitment to operational excellence
 + decentralized teams
 
 ---
+
+![fit](CIS_Q416.jpg)
+
+---
 ![](frieslandcampina.jpg)
 
 ^
@@ -149,5 +157,3 @@ On Friday afternoon...
 ---
 
 ![fit](sms-rip.png)
-
----
