@@ -13,7 +13,7 @@ slidenumbers: true
 ![](paul-misener.jpg)
 
 ^
-VP, Global Innovation Policy and Communications at Amazon.com
+Paul Misener, VP, Global Innovation Policy and Communications at Amazon.com
 	
 ---
 
@@ -76,7 +76,7 @@ working backwards, write a press release to be released in the future and a FAQ
 + invent stuff that doesn't exist today
 + written in customer terms
 Amazon Prime Air
-+ Roughly **90-95% roadmap** is driver by what customers tell them matters;
++ Roughly **90-95% roadmap** is driven by what customers tell them matters;
 
 ---
 ## Are right, A lot
@@ -108,7 +108,7 @@ commitment to operational excellence
 Worry about performance
 + loose focus
 + miss out on technologies
-+ Test the water, wade in, go for a swim
++ test the water, wade in, go for a swim
 
 ---
 ![](peter-hinssen.jpg)
@@ -149,6 +149,11 @@ On Friday afternoon...
 -- BMW
 
 ![](future-car.jpg)
+
+---
+
+![](karateka.gif)
+![](horizon.jpg)
 
 ---
 
