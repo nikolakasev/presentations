@@ -76,7 +76,14 @@ slidenumbers: true
 ---
 
 ## Most Respectful Interpretation
-### What is the most generous assumption I can make?
+### What is the most generous assumption I can make:
+- About this person’s intentions
+- or what this person said?
+
+---
+
+## Give
+### And Expect Nothing in Return
 
 ---
 
