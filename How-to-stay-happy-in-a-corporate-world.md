@@ -42,7 +42,7 @@ slidenumbers: false
 
 ---
 ## 30 Hours a Week
-![fill](IMG_0766.HEIC)
+![fill](jessica-rockowitz-5NLCaz2wJXE-unsplash.jpg)
 
 ---
 
@@ -104,4 +104,4 @@ slidenumbers: false
 
 ---
 
-![fit](cloud.png)
+![fit](elkedagrekenen.nl.png)
