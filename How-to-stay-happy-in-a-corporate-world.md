@@ -1,8 +1,7 @@
-slidenumbers: true
+slidenumbers: false
 
-# How to Stay Happy in a Corporate World[^1]
-## Stuff They Don't Teach in Computer Science
-
+# How to Be Happy in a Corporate World[^1]
+## Stuff They Don't Teach at School
 [^1]: Nikola for Alessandro 
 
 ---
@@ -35,14 +34,14 @@ slidenumbers: true
 
 ---
 
-![inline fit](scala.png)![inline fit](elm.png)
+![inline fit original 100%](scala.png)![inline fit original 140%](baker-logo.png)![inline fit original 15%](elm.png)
 
 ---
 ## 45 Hours a Week
 ![fit](IntelliJ.png)
 
 ---
-## 25 Hours a Week
+## 30 Hours a Week
 ![fill](IMG_0766.HEIC)
 
 ---
@@ -92,6 +91,16 @@ slidenumbers: true
 ---
 
 ![fit](dale-carnegie.jpeg)
+
+---
+
+## Become genuinely interested in other people
+## Smile
+## The only way to get the best of an argument is to avoid it
+
+---
+
+# Say what you mean and mean what you say
 
 ---
 
